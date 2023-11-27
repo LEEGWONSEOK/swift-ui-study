@@ -68,7 +68,6 @@ struct ShapeBasic: View {
                     .fill(Color.red)
                     .frame(width: 200, height: 100, alignment: .center)
                 
-                
             }
     
         
